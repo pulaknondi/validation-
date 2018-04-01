@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Validation</string>
+    <string name="hintname">hintName</string>
+    <string name="hintsurname">hintSurname</string>
+    <string name="hintphone">hintPhone</string>
+    <string name="invalidName">invalidName</string>
+    <string name="invalidSurname">invalidSurname</string>
+    <string name="invalidNumber">invalidNumber</string>
+    <string name="invalidNumberZero">invalidNumberZero</string>
+</resources>
